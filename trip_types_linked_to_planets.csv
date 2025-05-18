@@ -1,21 +1,21 @@
-triptype_id,name,coordinates,description,is_round_trip,planet_id
-1,Mission to Aetheria,"X:613.53, Y:-762.67, Z:619.45",Explore the unique surface and atmosphere of planet Aetheria.,False,1
-2,Mission to Zorath,"X:-1014.74, Y:324.16, Z:-448.35",Explore the unique surface and atmosphere of planet Zorath.,False,2
-3,Mission to Nyxos,"X:-607.35, Y:-220.04, Z:-831.1",Explore the unique surface and atmosphere of planet Nyxos.,False,3
-4,Mission to Virella,"X:-926.03, Y:279.97, Z:-506.05",Explore the unique surface and atmosphere of planet Virella.,False,4
-5,Mission to Targus,"X:438.58, Y:7.69, Z:552.52",Explore the unique surface and atmosphere of planet Targus.,True,5
-6,Mission to Ecliptor,"X:640.0, Y:-641.01, Z:659.07",Explore the unique surface and atmosphere of planet Ecliptor.,False,6
-7,Mission to Orionis,"X:-1068.35, Y:425.88, Z:-597.71",Explore the unique surface and atmosphere of planet Orionis.,False,7
-8,Mission to Caelora,"X:-561.5, Y:-626.04, Z:-271.38",Explore the unique surface and atmosphere of planet Caelora.,True,8
-9,Mission to Draconis,"X:-454.24, Y:77.58, Z:813.13",Explore the unique surface and atmosphere of planet Draconis.,False,9
-10,Mission to Pyrrhos,"X:-694.17, Y:400.03, Z:874.1",Explore the unique surface and atmosphere of planet Pyrrhos.,False,10
-11,Mission to Talmera,"X:-1039.33, Y:304.16, Z:-472.33",Explore the unique surface and atmosphere of planet Talmera.,False,11
-12,Mission to Lunaris,"X:-757.01, Y:-981.6, Z:144.88",Explore the unique surface and atmosphere of planet Lunaris.,False,12
-13,Mission to Zephyra,"X:-501.22, Y:-37.28, Z:336.93",Explore the unique surface and atmosphere of planet Zephyra.,True,13
-14,Mission to Solvana,"X:-1016.64, Y:352.93, Z:-411.26",Explore the unique surface and atmosphere of planet Solvana.,False,14
-15,Mission to Obscura,"X:-644.83, Y:-564.73, Z:-240.06",Explore the unique surface and atmosphere of planet Obscura.,True,15
-16,Mission to Cryon,"X:-558.93, Y:16.16, Z:326.17",Explore the unique surface and atmosphere of planet Cryon.,True,16
-17,Mission to Valtor,"X:-464.77, Y:682.53, Z:646.51",Explore the unique surface and atmosphere of planet Valtor.,False,17
-18,Mission to Serenos,"X:-181.21, Y:-894.3, Z:457.35",Explore the unique surface and atmosphere of planet Serenos.,False,18
-19,Mission to Arctyra,"X:271.58, Y:-160.93, Z:517.37",Explore the unique surface and atmosphere of planet Arctyra.,True,19
-20,Mission to Phobaris,"X:-452.54, Y:-63.24, Z:-200.12",Explore the unique surface and atmosphere of planet Phobaris.,True,20
+triptype_id,name,description,is_round_trip,planet_id
+1,Mission to Aetheria,Explore the unique surface and atmosphere of planet Aetheria.,False,1
+2,Mission to Zorath,Explore the unique surface and atmosphere of planet Zorath.,False,2
+3,Mission to Nyxos,Explore the unique surface and atmosphere of planet Nyxos.,True,3
+4,Mission to Virella,Explore the unique surface and atmosphere of planet Virella.,True,4
+5,Mission to Targus,Explore the unique surface and atmosphere of planet Targus.,False,5
+6,Mission to Ecliptor,Explore the unique surface and atmosphere of planet Ecliptor.,True,6
+7,Mission to Orionis,Explore the unique surface and atmosphere of planet Orionis.,False,7
+8,Mission to Caelora,Explore the unique surface and atmosphere of planet Caelora.,False,8
+9,Mission to Draconis,Explore the unique surface and atmosphere of planet Draconis.,False,9
+10,Mission to Pyrrhos,Explore the unique surface and atmosphere of planet Pyrrhos.,False,10
+11,Mission to Talmera,Explore the unique surface and atmosphere of planet Talmera.,True,11
+12,Mission to Lunaris,Explore the unique surface and atmosphere of planet Lunaris.,True,12
+13,Mission to Zephyra,Explore the unique surface and atmosphere of planet Zephyra.,False,13
+14,Mission to Solvana,Explore the unique surface and atmosphere of planet Solvana.,False,14
+15,Mission to Obscura,Explore the unique surface and atmosphere of planet Obscura.,True,15
+16,Mission to Cryon,Explore the unique surface and atmosphere of planet Cryon.,False,16
+17,Mission to Valtor,Explore the unique surface and atmosphere of planet Valtor.,False,17
+18,Mission to Serenos,Explore the unique surface and atmosphere of planet Serenos.,False,18
+19,Mission to Arctyra,Explore the unique surface and atmosphere of planet Arctyra.,False,19
+20,Mission to Phobaris,Explore the unique surface and atmosphere of planet Phobaris.,True,20
