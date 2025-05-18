@@ -4,13 +4,13 @@
   "settings": {
     "width": 2000,
     "height": 2000,
-    "scrollTop": -1063.8186,
-    "scrollLeft": -580.967,
+    "scrollTop": -355.5554,
+    "scrollLeft": -100,
     "zoomLevel": 0.8,
     "show": 431,
     "database": 4,
     "databaseName": "space",
-    "canvasType": "ERD",
+    "canvasType": "@dineug/erd-editor/builtin-schema-sql",
     "language": 1,
     "tableNameCase": 4,
     "columnNameCase": 2,
@@ -178,11 +178,13 @@
         "name": "emergency_contact",
         "comment": "",
         "columnIds": [
+          "nRCEkwuOAGIceqq8FXr71",
           "n2AKbsIZJgUzybwKNyN6Z",
           "yWV-DtOZwR0VoNwHNKXb9",
           "xUnPa2SziH3LaZk8-9fjS"
         ],
         "seqColumnIds": [
+          "nRCEkwuOAGIceqq8FXr71",
           "n2AKbsIZJgUzybwKNyN6Z",
           "yWV-DtOZwR0VoNwHNKXb9",
           "T1u2ZkdDJntuXdufoE9eM",
@@ -198,7 +200,7 @@
           "color": ""
         },
         "meta": {
-          "updateAt": 1747495247015,
+          "updateAt": 1747585704624,
           "createAt": 1747477672769
         }
       },
@@ -486,11 +488,13 @@
         "name": "booking",
         "comment": "",
         "columnIds": [
+          "OkDvibaQI3yEqEEY7Incb",
           "E-pIoQi9fAwtfO8fgUStz",
           "QE4Qi3uVSfl-yviegn4b9",
           "SGUQKCdcQGKf5VhUTDxgQ"
         ],
         "seqColumnIds": [
+          "OkDvibaQI3yEqEEY7Incb",
           "E-pIoQi9fAwtfO8fgUStz",
           "QE4Qi3uVSfl-yviegn4b9",
           "SGUQKCdcQGKf5VhUTDxgQ"
@@ -504,7 +508,7 @@
           "color": ""
         },
         "meta": {
-          "updateAt": 1747494929601,
+          "updateAt": 1747585678704,
           "createAt": 1747479582185
         }
       },
@@ -513,11 +517,13 @@
         "name": "tripemployee",
         "comment": "",
         "columnIds": [
+          "gG2oTonXjARWmutIqeCIG",
           "Nlqoc6CWhuj95cEkF2BWx",
           "8VMZyyUD78GkSt9aXaR6e",
           "uKEtd-vXBcxjqEayer69Z"
         ],
         "seqColumnIds": [
+          "gG2oTonXjARWmutIqeCIG",
           "Nlqoc6CWhuj95cEkF2BWx",
           "8VMZyyUD78GkSt9aXaR6e",
           "uKEtd-vXBcxjqEayer69Z"
@@ -531,7 +537,7 @@
           "color": ""
         },
         "meta": {
-          "updateAt": 1747495169021,
+          "updateAt": 1747585750526,
           "createAt": 1747479604407
         }
       }
@@ -842,18 +848,18 @@
         "tableId": "E3O_VGtKINVbysps54H3Z",
         "name": "email",
         "comment": "",
-        "dataType": "LINESTRING",
+        "dataType": "VARCHAR(100)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 60,
           "widthComment": 60,
-          "widthDataType": 66,
+          "widthDataType": 81,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1747496593932,
+          "updateAt": 1747585740708,
           "createAt": 1747477724565
         }
       },
@@ -1642,18 +1648,18 @@
         "tableId": "apOYH2LxgfycDGriDvRAG",
         "name": "seat_number",
         "comment": "",
-        "dataType": "LINESTRING",
+        "dataType": "SMALLINT",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 70,
           "widthComment": 60,
-          "widthDataType": 66,
+          "widthDataType": 60,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1747495675498,
+          "updateAt": 1747585784827,
           "createAt": 1747479590346
         }
       },
@@ -2262,19 +2268,79 @@
         "tableId": "-KMZDsw06cT_Njzf6MZm8",
         "name": "salary",
         "comment": "",
-        "dataType": "",
+        "dataType": "DECIMAL(10,2)",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
           "widthName": 60,
           "widthComment": 60,
+          "widthDataType": 81,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1747585817301,
+          "createAt": 1747499677667
+        }
+      },
+      "OkDvibaQI3yEqEEY7Incb": {
+        "id": "OkDvibaQI3yEqEEY7Incb",
+        "tableId": "apOYH2LxgfycDGriDvRAG",
+        "name": "booking_id",
+        "comment": "",
+        "dataType": "SMALLINT",
+        "default": "",
+        "options": 10,
+        "ui": {
+          "keys": 1,
+          "widthName": 61,
+          "widthComment": 60,
           "widthDataType": 60,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1747499700139,
-          "createAt": 1747499677667
+          "updateAt": 1747585690423,
+          "createAt": 1747585677403
+        }
+      },
+      "nRCEkwuOAGIceqq8FXr71": {
+        "id": "nRCEkwuOAGIceqq8FXr71",
+        "tableId": "E3O_VGtKINVbysps54H3Z",
+        "name": "emergency_contact_id",
+        "comment": "",
+        "dataType": "SMALLINT",
+        "default": "",
+        "options": 10,
+        "ui": {
+          "keys": 1,
+          "widthName": 120,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1747585731140,
+          "createAt": 1747585703313
+        }
+      },
+      "gG2oTonXjARWmutIqeCIG": {
+        "id": "gG2oTonXjARWmutIqeCIG",
+        "tableId": "P4WFjmmIcQ_tzUhouCzF8",
+        "name": "tripemployee_id",
+        "comment": "",
+        "dataType": "SMALLINT",
+        "default": "",
+        "options": 10,
+        "ui": {
+          "keys": 1,
+          "widthName": 87,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1747585763607,
+          "createAt": 1747585749335
         }
       }
     },
@@ -2578,8 +2644,8 @@
           "columnIds": [
             "xUnPa2SziH3LaZk8-9fjS"
           ],
-          "x": 199.2946,
-          "y": 130.1542,
+          "x": 236.7946,
+          "y": 154.1542,
           "direction": 8
         },
         "meta": {
@@ -2597,7 +2663,7 @@
           "columnIds": [
             "irJMY18S-h0RbL3zTavg4"
           ],
-          "x": 1338.6298000000002,
+          "x": 1344.6298000000002,
           "y": 156.289,
           "direction": 2
         },
@@ -2607,7 +2673,7 @@
             "8VMZyyUD78GkSt9aXaR6e"
           ],
           "x": 1493.2252,
-          "y": 225.9842,
+          "y": 231.9842,
           "direction": 1
         },
         "meta": {
@@ -2635,7 +2701,7 @@
             "QE4Qi3uVSfl-yviegn4b9"
           ],
           "x": 452.0238,
-          "y": 142.7245,
+          "y": 154.7245,
           "direction": 1
         },
         "meta": {
@@ -2830,8 +2896,8 @@
           "columnIds": [
             "SGUQKCdcQGKf5VhUTDxgQ"
           ],
-          "x": 833.0237999999999,
-          "y": 142.7245,
+          "x": 827.0237999999999,
+          "y": 154.7245,
           "direction": 2
         },
         "meta": {
@@ -2859,7 +2925,7 @@
             "uKEtd-vXBcxjqEayer69Z"
           ],
           "x": 1493.2252,
-          "y": 289.9842,
+          "y": 307.9842,
           "direction": 1
         },
         "meta": {
