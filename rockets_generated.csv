@@ -1,5 +1,5 @@
-rocket_id,name,capacity,max_range
-1,Stellar Vortex,6,5000
-2,Nebula Strider,10,15000
-3,Quantum Lance,4,3000
-4,Solaris Ark,8,10000
+rocket_id,name,capacity
+1,Stellar Vortex,6
+2,Nebula Strider,10
+3,Quantum Lance,4
+4,Solaris Ark,8

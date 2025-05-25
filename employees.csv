@@ -1,51 +1,31 @@
-employee_id,position
-1,Technician
-2,Mission Specialist
-3,Commander
-4,Pilot
-5,Navigator
-6,Technician
-7,Mission Specialist
-8,Commander
-9,Pilot
-10,Navigator
-11,Technician
-12,Mission Specialist
-13,Commander
-14,Pilot
-15,Navigator
-16,Technician
-17,Mission Specialist
-18,Commander
-19,Pilot
-20,Navigator
-21,Technician
-22,Mission Specialist
-23,Commander
-24,Pilot
-25,Navigator
-26,Technician
-27,Mission Specialist
-28,Commander
-29,Pilot
-30,Navigator
-31,Technician
-32,Mission Specialist
-33,Commander
-34,Pilot
-35,Navigator
-36,Technician
-37,Mission Specialist
-38,Commander
-39,Pilot
-40,Navigator
-41,Technician
-42,Mission Specialist
-43,Commander
-44,Pilot
-45,Navigator
-46,Technician
-47,Mission Specialist
-48,Commander
-49,Pilot
-50,Navigator
+employee_id,first_name,last_name,position,hire_date,salary
+1,Kevin,Potts,Navigator,2023-01-01,9200.0
+2,Nicole,Gordon,Pilot,2023-01-01,7000.0
+3,Samantha,Floyd,Commander,2023-01-01,12500.0
+4,Lori,Stout,Mission Specialist,2023-01-01,12300.0
+5,Margaret,Webster,Pilot,2023-01-01,8200.0
+6,Melissa,West,Navigator,2023-01-01,8100.0
+7,Paul,Miller,Commander,2023-01-01,12100.0
+8,Christina,Thompson,Pilot,2023-01-01,7400.0
+9,Dillon,Clark,Technician,2023-01-01,5800.0
+10,Andrea,Garcia,Navigator,2023-01-01,6600.0
+11,Courtney,Johnson,Pilot,2023-01-01,7000.0
+12,Jason,Fitzgerald,Navigator,2023-01-01,6300.0
+13,Teresa,Patton,Pilot,2023-01-01,8000.0
+14,Sarah,Duffy,Pilot,2023-01-01,8900.0
+15,William,Gonzalez,Pilot,2023-01-01,8900.0
+16,Amy,Wiggins,Pilot,2024-08-14,6600.0
+17,Robert,Lamb,Technician,2024-01-02,4900.0
+18,Catherine,Velasquez,Commander,2023-12-14,11800.0
+19,Victoria,Gallegos,Navigator,2023-07-29,5900.0
+20,Anne,Roach,Pilot,2025-05-25,7300.0
+21,Rebekah,Morales,Navigator,2024-07-02,6300.0
+22,Kari,Greer,Pilot,2025-04-09,8200.0
+23,Stacey,Keller,Pilot,2024-06-03,7600.0
+24,Kristy,James,Pilot,2024-03-01,8000.0
+25,Diane,Montgomery,Navigator,2024-10-05,6900.0
+26,David,Palmer,Navigator,2024-05-25,6100.0
+27,Anne,Moyer,Navigator,2024-08-07,6700.0
+28,Christine,Allen,Pilot,2024-07-23,7300.0
+29,Ricardo,Green,Navigator,2024-09-28,7400.0
+30,Ricky,Mercado,Mission Specialist,2024-09-26,10300.0
