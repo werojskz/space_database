@@ -1,101 +1,229 @@
 employee_id,first_name,last_name,position,hire_date,salary
-1,Andrea,Perez,Pilot,2023-01-01,7600.0
-2,Harry,Fox,Pilot,2023-01-01,8500.0
-3,Angela,Peterson,Technician,2023-01-01,6400.0
-4,Kenneth,Henderson,Commander,2023-01-01,13200.0
-5,Gregory,Lopez,Pilot,2023-01-01,7400.0
-6,Steve,Mack,Pilot,2023-01-01,7100.0
-7,Colton,Raymond,Navigator,2023-01-01,8000.0
-8,Alexis,Garcia,Mission Specialist,2023-01-01,10400.0
-9,John,Smith,Commander,2023-01-01,10400.0
-10,Calvin,Scott,Pilot,2023-01-01,8700.0
-11,Regina,Jones,Navigator,2023-01-01,8600.0
-12,Peter,Roberts,Pilot,2023-01-01,9700.0
-13,Scott,Schultz,Navigator,2023-01-01,7300.0
-14,Brandy,Davis,Commander,2023-01-01,11400.0
-15,Lisa,Hoffman,Commander,2023-01-01,12500.0
-16,Sherry,Christensen,Mission Specialist,2023-01-01,11700.0
-17,Bobby,Burton,Mission Specialist,2023-01-01,10200.0
-18,Theresa,Dawson,Pilot,2023-01-01,9600.0
-19,Stefanie,Branch,Pilot,2023-01-01,7600.0
-20,Elizabeth,Sanchez,Pilot,2023-01-01,8700.0
-21,Tammy,Ponce,Navigator,2023-01-01,6400.0
-22,Julie,Duncan,Pilot,2023-01-01,9200.0
-23,Gabriel,Barker,Navigator,2023-01-01,7200.0
-24,Jacob,Rodriguez,Navigator,2023-01-01,8600.0
-25,Austin,Anderson,Commander,2023-01-01,13400.0
-26,Kristy,Hines,Technician,2023-01-01,4800.0
-27,Evelyn,Smith,Pilot,2023-01-01,7300.0
-28,Adrienne,Wilson,Pilot,2023-01-01,8200.0
-29,Luke,Robertson,Pilot,2023-01-01,9500.0
-30,James,Smith,Navigator,2023-01-01,8100.0
-31,Cheryl,Allison,Navigator,2023-01-01,8800.0
-32,Michael,Myers,Navigator,2023-01-01,8000.0
-33,Bryan,Page,Technician,2023-01-01,4700.0
-34,Tracie,Daniel,Navigator,2023-01-01,6900.0
-35,Victoria,Parsons,Navigator,2023-01-01,8400.0
-36,Jacob,Garcia,Navigator,2023-01-01,7400.0
-37,Anna,Thomas,Technician,2023-01-01,5400.0
-38,Henry,Wood,Mission Specialist,2023-01-01,12600.0
-39,Melinda,Schmidt,Pilot,2023-01-01,9400.0
-40,Lisa,Daniels,Pilot,2023-01-01,8500.0
-41,Parker,Holmes,Pilot,2023-01-01,7000.0
-42,Mark,Moran,Technician,2023-01-01,6600.0
-43,James,Taylor,Navigator,2023-01-01,6900.0
-44,Alicia,Meyers,Navigator,2023-01-01,7200.0
-45,Amber,Brown,Pilot,2023-01-01,7700.0
-46,Stacey,Moore,Commander,2023-01-01,13400.0
-47,Wayne,Thompson,Technician,2023-01-01,5700.0
-48,Paul,Moon,Navigator,2023-01-01,8500.0
-49,Charles,Werner,Navigator,2023-01-01,8400.0
-50,Sharon,Jimenez,Commander,2023-01-01,12300.0
-51,Melanie,Pittman,Navigator,2025-01-15,6400.0
-52,Heather,Li,Mission Specialist,2024-06-20,8800.0
-53,Jason,Merritt,Navigator,2025-05-21,5900.0
-54,Betty,Wise,Technician,2023-01-06,6600.0
-55,Lindsay,Mills,Technician,2024-12-13,4000.0
-56,Lisa,Johnson,Pilot,2023-12-04,7400.0
-57,Alicia,Delacruz,Navigator,2024-06-19,7900.0
-58,Travis,Brooks,Pilot,2024-04-09,7500.0
-59,Jason,Joyce,Technician,2024-12-06,5000.0
-60,Lauren,Joseph,Navigator,2023-04-21,6500.0
-61,Rose,Aguilar,Navigator,2023-05-11,8700.0
-62,Andrew,Myers,Navigator,2023-06-25,8000.0
-63,Jason,Mitchell,Commander,2023-04-13,13100.0
-64,Susan,Morgan,Navigator,2023-07-10,7400.0
-65,Ashley,Gordon,Commander,2024-10-14,12000.0
-66,Scott,Brown,Pilot,2024-11-23,8500.0
-67,Melanie,Estes,Navigator,2025-05-07,6700.0
-68,Jacob,Campbell,Navigator,2023-07-08,8500.0
-69,Lynn,Alexander,Technician,2024-12-19,5500.0
-70,Joanna,Oneill,Pilot,2024-12-21,7100.0
-71,Chelsea,Ross,Technician,2024-03-21,5400.0
-72,Angie,Diaz,Navigator,2023-07-20,7700.0
-73,Mary,Shaw,Pilot,2024-08-21,6600.0
-74,Veronica,Lewis,Navigator,2023-11-16,6700.0
-75,Keith,Robbins,Technician,2023-05-21,6000.0
-76,Tina,Mills,Navigator,2024-08-23,6600.0
-77,Melanie,Harris,Navigator,2023-11-08,6500.0
-78,Kevin,Guzman,Pilot,2024-02-07,7700.0
-79,Ashley,Buckley,Pilot,2023-11-26,6700.0
-80,William,Floyd,Navigator,2024-06-13,6600.0
-81,Sarah,Murphy,Navigator,2024-10-07,6400.0
-82,Ashley,Kramer,Commander,2024-01-18,11200.0
-83,Katie,Miller,Commander,2024-08-18,11700.0
-84,Parker,Hogan,Navigator,2023-11-05,8300.0
-85,Patricia,Patterson,Navigator,2025-04-08,6200.0
-86,Christopher,Lee,Pilot,2023-03-08,8500.0
-87,William,Cohen,Pilot,2023-08-25,6600.0
-88,Kathryn,Howell,Navigator,2025-05-19,6500.0
-89,Karl,Harrison,Technician,2023-08-10,6200.0
-90,Daniel,Allison,Navigator,2024-06-20,6600.0
-91,Caleb,Flynn,Pilot,2025-04-21,6400.0
-92,Richard,Jones,Navigator,2025-05-03,6700.0
-93,Anthony,Wade,Pilot,2023-12-24,9100.0
-94,Dominic,Paul,Mission Specialist,2023-09-27,8900.0
-95,Raymond,Jackson,Technician,2025-03-02,5500.0
-96,Anthony,Ward,Pilot,2025-01-13,6200.0
-97,Ashley,Cisneros,Navigator,2024-03-12,7800.0
-98,Brian,Williamson,Technician,2025-02-11,5400.0
-99,Amber,Harris,Pilot,2023-04-23,7900.0
-100,John,Lee,Pilot,2024-02-18,7400.0
+1,Alicia,Moore,Mission Specialist,2023-01-01,10900.0
+2,Mackenzie,Potter,Pilot,2023-01-01,9000.0
+3,Lisa,Hines,Technician,2023-01-01,5400.0
+4,Rachel,Ruiz,Navigator,2023-01-01,7400.0
+5,Anna,Gutierrez,Pilot,2023-01-01,9200.0
+6,Cheryl,Stewart,Navigator,2023-01-01,8100.0
+7,Theresa,Taylor,Commander,2023-01-01,11300.0
+8,Ebony,Scott,Pilot,2023-01-01,8600.0
+9,Dean,Daniel,Technician,2023-01-01,6900.0
+10,Timothy,Black,Commander,2023-01-01,13500.0
+11,Troy,Johnson,Navigator,2023-01-01,8700.0
+12,Lisa,Curtis,Pilot,2023-01-01,8700.0
+13,Gabriel,Smith,Commander,2023-01-01,13600.0
+14,Joseph,Hernandez,Pilot,2023-01-01,7000.0
+15,Crystal,Stewart,Pilot,2023-01-01,6900.0
+16,Michael,Harmon,Pilot,2023-01-01,9600.0
+17,Rebecca,Lucas,Pilot,2023-01-01,9300.0
+18,Sherry,Gates,Technician,2023-01-01,4800.0
+19,April,Hernandez,Technician,2023-01-01,6900.0
+20,Alexandra,Sandoval,Pilot,2023-01-01,8600.0
+21,Jessica,Young,Mission Specialist,2023-01-01,9800.0
+22,Donald,Park,Mission Specialist,2023-01-01,10800.0
+23,Allison,Gilbert,Commander,2023-01-01,11400.0
+24,Kevin,Scott,Pilot,2023-01-01,8900.0
+25,Tonya,Miller,Commander,2023-01-01,11000.0
+26,Jordan,Jackson,Pilot,2023-01-01,8000.0
+27,Steven,Herrera,Pilot,2023-01-01,7000.0
+28,Theresa,Benson,Navigator,2023-01-01,7600.0
+29,Matthew,Michael,Mission Specialist,2023-01-01,10800.0
+30,Erik,Dunn,Pilot,2023-01-01,9600.0
+31,Chelsea,Neal,Mission Specialist,2023-01-01,11800.0
+32,Lucas,Estes,Technician,2023-01-01,6800.0
+33,Jim,Andrews,Pilot,2023-01-01,7600.0
+34,Robert,Gonzalez,Pilot,2023-01-01,7400.0
+35,Paul,Austin,Mission Specialist,2023-01-01,11300.0
+36,Harold,Freeman,Mission Specialist,2023-01-01,11600.0
+37,Julia,Garrett,Technician,2023-01-01,6000.0
+38,Nancy,Little,Navigator,2023-01-01,7200.0
+39,Gerald,Carroll,Commander,2023-01-01,11400.0
+40,Jeffrey,Aguirre,Pilot,2023-01-01,7000.0
+41,John,Carroll,Pilot,2023-01-01,8500.0
+42,Sara,Lee,Pilot,2023-01-01,7700.0
+43,Diane,Holder,Mission Specialist,2023-01-01,11100.0
+44,Kyle,Prince,Navigator,2023-01-01,8200.0
+45,Andrew,Reynolds,Pilot,2023-01-01,8000.0
+46,Katherine,Baker,Pilot,2023-01-01,8800.0
+47,Wanda,Thomas,Pilot,2023-01-01,8600.0
+48,Alexander,White,Mission Specialist,2023-01-01,12600.0
+49,Adam,Mullins,Commander,2023-01-01,12500.0
+50,Ann,Cooper,Navigator,2023-01-01,6400.0
+51,Brent,Franklin,Navigator,2023-01-01,8100.0
+52,Amy,Walton,Pilot,2023-01-01,8700.0
+53,Jacob,Barker,Navigator,2023-01-01,8800.0
+54,Dylan,Bennett,Mission Specialist,2023-01-01,10600.0
+55,Barbara,Spencer,Navigator,2023-01-01,9200.0
+56,Christian,Hays,Pilot,2023-01-01,7000.0
+57,Michael,Zimmerman,Pilot,2023-01-01,7100.0
+58,Mary,Patterson,Mission Specialist,2023-01-01,10000.0
+59,James,Griffin,Commander,2023-01-01,11700.0
+60,Abigail,Horne,Pilot,2023-01-01,7900.0
+61,Edward,Meza,Navigator,2023-01-01,7200.0
+62,Robert,Parker,Mission Specialist,2023-01-01,11300.0
+63,Thomas,Mercado,Pilot,2023-01-01,9600.0
+64,Gregory,Black,Navigator,2023-01-01,7300.0
+65,Tony,Lopez,Technician,2023-01-01,5600.0
+66,Anthony,Wiggins,Pilot,2023-01-01,8400.0
+67,Peter,Wilson,Pilot,2023-01-01,8600.0
+68,Heather,Obrien,Mission Specialist,2023-01-01,12400.0
+69,Mary,Walters,Navigator,2023-01-01,8600.0
+70,David,Miranda,Mission Specialist,2023-01-01,11900.0
+71,Destiny,Ibarra,Technician,2023-01-01,5800.0
+72,John,Taylor,Navigator,2023-01-01,6400.0
+73,Jacob,Berger,Pilot,2023-01-01,7300.0
+74,Rebecca,Gonzalez,Mission Specialist,2023-01-01,9300.0
+75,Donna,Hebert,Pilot,2023-01-01,7900.0
+76,Tom,Oneal,Commander,2023-01-01,12700.0
+77,Rachel,Shepard,Navigator,2023-01-01,6400.0
+78,James,Schwartz,Mission Specialist,2023-01-01,10500.0
+79,Veronica,Castillo,Pilot,2023-01-01,7800.0
+80,Tracie,Rose,Pilot,2023-01-01,7600.0
+81,Colleen,Herrera,Technician,2023-01-01,6200.0
+82,Laura,West,Navigator,2023-01-01,8400.0
+83,Nicole,Becker,Pilot,2023-01-01,8700.0
+84,Benjamin,Arnold,Pilot,2023-01-01,8500.0
+85,Robert,Brown,Pilot,2023-01-01,9500.0
+86,Dominique,Mccormick,Mission Specialist,2023-01-01,11800.0
+87,Jessica,Anthony,Technician,2023-01-01,5800.0
+88,Kimberly,Vargas,Pilot,2023-01-01,6900.0
+89,Nancy,Perez,Pilot,2023-01-01,7600.0
+90,Reginald,Mullins,Navigator,2023-01-01,6800.0
+91,William,Davila,Pilot,2023-01-01,8200.0
+92,Paul,Sosa,Pilot,2023-01-01,8100.0
+93,Aaron,Ortiz,Technician,2023-01-01,6200.0
+94,Linda,Johnson,Mission Specialist,2023-01-01,11600.0
+95,James,Sosa,Navigator,2023-01-01,9000.0
+96,Emily,Bailey,Navigator,2023-01-01,7000.0
+97,Todd,Haynes,Navigator,2023-01-01,6900.0
+98,Tyler,Smith,Mission Specialist,2023-01-01,11800.0
+99,Jesus,Byrd,Pilot,2023-01-01,7900.0
+100,Whitney,Page,Navigator,2023-01-01,8000.0
+101,Justin,Morgan,Navigator,2024-04-03,7700.0
+102,Jeff,Roberts,Pilot,2023-11-29,8300.0
+103,Jodi,Brooks,Navigator,2023-01-15,6500.0
+104,Katherine,Scott,Navigator,2024-06-08,7700.0
+105,Carrie,Nelson,Pilot,2024-12-22,7400.0
+106,Nicole,Robinson,Pilot,2023-01-25,7100.0
+107,William,Thomas,Commander,2025-03-27,9600.0
+108,Alan,Cruz,Navigator,2025-01-30,5900.0
+109,Terri,Boyd,Pilot,2024-05-30,8000.0
+110,Sarah,Schultz,Pilot,2025-05-26,8200.0
+111,Amanda,Stevens,Pilot,2024-02-27,7100.0
+112,Stephen,Williams,Navigator,2024-06-24,5500.0
+113,Christopher,Farmer,Technician,2024-05-28,6400.0
+114,Dale,Wood,Navigator,2024-08-02,7700.0
+115,Katherine,Baker,Pilot,2024-10-01,8300.0
+116,Dale,Atkins,Pilot,2024-10-29,6500.0
+117,Candace,Glover,Navigator,2023-02-08,8600.0
+118,Aaron,Thomas,Mission Specialist,2023-01-13,10500.0
+119,Kyle,Weaver,Navigator,2023-09-22,6700.0
+120,Julie,Kaufman,Commander,2024-03-22,12400.0
+121,Alicia,Contreras,Technician,2024-08-30,5700.0
+122,Jeffrey,Webster,Navigator,2025-05-20,5500.0
+123,Danny,Decker,Navigator,2024-06-04,6800.0
+124,Sandra,Coleman,Pilot,2024-03-05,7000.0
+125,Jenna,Frazier,Pilot,2024-06-13,7200.0
+126,Ashley,Snyder,Technician,2025-04-28,4600.0
+127,David,Carr,Navigator,2024-10-18,7200.0
+128,John,Baker,Navigator,2023-04-23,7900.0
+129,Robert,Velazquez,Navigator,2024-11-11,7700.0
+130,Carol,Murphy,Mission Specialist,2023-10-20,9300.0
+131,Nicole,Gutierrez,Pilot,2025-02-28,7500.0
+132,Michael,Carter,Navigator,2023-11-17,6700.0
+133,Angela,Blair,Pilot,2023-07-24,7500.0
+134,Peter,Maxwell,Navigator,2025-01-04,7500.0
+135,Robert,Jones,Pilot,2023-05-13,8100.0
+136,Roger,Burch,Pilot,2024-09-22,7500.0
+137,Anthony,Porter,Navigator,2023-01-27,7400.0
+138,Jennifer,Miller,Navigator,2024-02-18,5900.0
+139,Bruce,Martin,Pilot,2024-12-19,6600.0
+140,Cynthia,Hill,Navigator,2024-09-19,6000.0
+141,Cody,Smith,Pilot,2023-02-08,7400.0
+142,Stephanie,Palmer,Pilot,2024-01-25,8700.0
+143,Daniel,Vega,Mission Specialist,2023-01-04,11600.0
+144,Deborah,Davis,Navigator,2023-11-18,8000.0
+145,Stephen,Diaz,Mission Specialist,2024-01-27,10500.0
+146,Maria,Foster,Commander,2025-05-04,12000.0
+147,Mike,Jones,Commander,2025-01-05,11100.0
+148,Tiffany,Carpenter,Navigator,2024-06-23,7800.0
+149,Jesse,Flores,Mission Specialist,2024-02-28,9500.0
+150,Donna,Johnson,Pilot,2023-09-28,9100.0
+151,Rachel,Robinson,Commander,2024-04-06,10100.0
+152,Amy,Wagner,Pilot,2024-01-31,8500.0
+153,Don,Powell,Mission Specialist,2023-04-22,11400.0
+154,Scott,Campbell,Technician,2024-04-07,6200.0
+155,Amber,Robinson,Commander,2023-02-08,12100.0
+156,Cynthia,Estes,Commander,2025-05-17,10300.0
+157,Monica,Thompson,Commander,2025-01-10,9100.0
+158,Krystal,Kaiser,Navigator,2024-01-08,6000.0
+159,Francis,Robertson,Pilot,2023-05-09,9200.0
+160,Meagan,Leonard,Navigator,2023-01-28,7400.0
+161,Michael,Petty,Pilot,2025-04-29,8500.0
+162,William,Walker,Navigator,2025-05-04,7100.0
+163,Juan,Gibson,Navigator,2024-07-06,5500.0
+164,James,Johnson,Pilot,2024-07-26,6100.0
+165,Jennifer,Bartlett,Mission Specialist,2023-07-19,9600.0
+166,Melissa,Fry,Navigator,2024-07-12,7200.0
+167,Shawn,Webb,Navigator,2023-12-02,6500.0
+168,Laura,Gill,Pilot,2024-11-11,6700.0
+169,Jeff,Murphy,Pilot,2023-05-16,7300.0
+170,Danielle,Patterson,Navigator,2025-01-20,8000.0
+171,David,Spears,Mission Specialist,2025-05-05,10100.0
+172,Trevor,Lynch,Navigator,2025-04-24,7400.0
+173,Peter,Hanna,Pilot,2024-10-06,7500.0
+174,Eugene,Cole,Pilot,2023-02-17,8500.0
+175,Nathaniel,Chambers,Technician,2024-05-14,5000.0
+176,Edward,Welch,Commander,2025-04-08,11300.0
+177,Tyler,Garcia,Pilot,2023-07-03,6400.0
+178,Emily,House,Pilot,2023-06-06,6500.0
+179,Matthew,Richmond,Navigator,2025-03-04,7800.0
+180,Stephen,Romero,Pilot,2023-09-09,8200.0
+181,Kyle,Bishop,Pilot,2023-01-30,8200.0
+182,Kim,Johnson,Technician,2024-08-16,4200.0
+183,Nicholas,Riggs,Navigator,2025-03-15,8000.0
+184,Jennifer,Lopez,Pilot,2023-09-16,7200.0
+185,William,Farrell,Navigator,2025-01-29,6600.0
+186,Nicholas,Turner,Navigator,2023-07-05,7600.0
+187,Michelle,Davis,Pilot,2024-04-30,7900.0
+188,Samuel,Figueroa,Commander,2025-02-08,10500.0
+189,Laura,Duran,Technician,2023-10-10,4600.0
+190,Stacie,Patel,Pilot,2024-02-28,8600.0
+191,Amanda,Frank,Mission Specialist,2023-10-08,11200.0
+192,Johnathan,Barnett,Navigator,2024-01-10,7900.0
+193,Brian,Baker,Navigator,2023-10-26,7200.0
+194,Jesse,Kemp,Technician,2025-01-27,4100.0
+195,Katherine,Rodriguez,Pilot,2024-09-27,6000.0
+196,Anthony,Jones,Technician,2024-10-30,5300.0
+197,Jason,Davis,Navigator,2024-06-23,5500.0
+198,Taylor,Ramirez,Navigator,2024-01-14,7200.0
+199,Wesley,Brennan,Navigator,2024-06-16,7300.0
+200,Charles,Rice,Technician,2023-01-03,6500.0
+201,Maria,Gonzalez,Pilot,2023-07-20,10350.0
+202,Peter,Patterson,Navigator,2023-07-20,8510.0
+203,Laura,Rich,Pilot,2023-04-21,8740.0
+204,Kelly,Clark,Navigator,2023-04-21,8395.0
+205,Kelly,Miller,Pilot,2023-03-19,9890.0
+206,Melissa,Ward,Navigator,2023-03-19,8970.0
+207,Heather,Sexton,Pilot,2023-03-08,10051.0
+208,Jessica,Johnson,Navigator,2023-03-08,10350.0
+209,Marc,Guerrero,Pilot,2024-03-28,8510.0
+210,Christopher,Mitchell,Navigator,2024-03-28,9085.0
+211,Jessica,Ross,Pilot,2024-05-15,9430.0
+212,Nicole,Cannon,Navigator,2024-05-15,6900.0
+213,Christine,White,Pilot,2023-10-02,8165.0
+214,Andrew,Ballard,Navigator,2023-10-02,8280.0
+215,Michael,Patel,Pilot,2024-08-12,10005.0
+216,Ashley,Sellers,Navigator,2024-08-12,6325.0
+217,Stephanie,Gray,Pilot,2024-08-14,10465.0
+218,Anthony,Rivera,Navigator,2024-08-14,10580.0
+219,Kaitlin,Wheeler,Pilot,2024-03-18,9545.0
+220,Robert,Mccall,Navigator,2024-03-18,8280.0
+221,Tanner,Pierce,Pilot,2024-07-05,9890.0
+222,Stephanie,Ball,Navigator,2024-07-05,6785.0
+223,Amy,Jones,Pilot,2024-06-11,9890.0
+224,Brian,Bernard,Navigator,2024-06-11,7360.0
+225,Eric,Heath,Pilot,2024-05-26,8740.0
+226,Joshua,Aguilar,Navigator,2024-05-26,9200.0
+227,Jeffrey,Young,Pilot,2024-08-22,6900.0
+228,Brett,Martinez,Navigator,2024-08-22,9890.0
