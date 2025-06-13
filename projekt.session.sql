@@ -211,4 +211,6 @@ ALTER TABLE trip_employee
     FOREIGN KEY (trip_id)
     REFERENCES trip (trip_id);
 
-SELECT * FROM trip_employee
+SELECT count(name), is_round_trip FROM trip_type
+GROUP BY is_round_trip
+
